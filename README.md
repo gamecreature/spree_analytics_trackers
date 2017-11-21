@@ -1,6 +1,10 @@
 SpreeAnalyticsTrackers
 ==============
 
+[![Build Status](https://travis-ci.org/spree-contrib/spree_analytics_trackers.svg?branch=master)](https://travis-ci.org/spree-contrib/spree_analytics_trackers)
+[![Code Climate](https://codeclimate.com/repos/560308aa6956801375000a4e/badges/9874199a656054d613cd/gpa.svg)](https://codeclimate.com/repos/560308aa6956801375000a4e/feed)
+[![Test Coverage](https://codeclimate.com/repos/560308aa6956801375000a4e/badges/9874199a656054d613cd/coverage.svg)](https://codeclimate.com/repos/560308aa6956801375000a4e/coverage)
+
 ## Installation
 
 1. Add this extension to your Gemfile with this line:
@@ -45,4 +49,17 @@ If you'd like to contribute, please take a look at the
 [instructions](CONTRIBUTING.md) for installing dependencies and crafting a good
 pull request.
 
+## License
+
 Copyright (c) 2017 [Spark Solutions](https://www.sparksolutions.co "Spark Soutions"), released under the New BSD License
+
+## About Spark Solutions
+[![Spark Solutions](http://sparksolutions.co/wp-content/uploads/2015/01/logo-ss-tr-221x100.png)][spark]
+
+SpreeAnalyticsTrackers are maintained by [Spark Solutions Sp. z o.o.](http://sparksolutions.co?utm_source=github)
+
+We are passionate about open source software.
+We are [available for hire][spark].
+
+
+[spark]:http://sparksolutions.co?utm_source=github
