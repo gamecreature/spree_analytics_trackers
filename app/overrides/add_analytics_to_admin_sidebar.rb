@@ -1,4 +1,4 @@
-if Gem.loaded_specs['spree_core'].version >= Gem::Version.create('3.5.0')
+if Gem.loaded_specs['spree_core'].version >= Gem::Version.create('3.5.0.alpha')
   Deface::Override.new(
     virtual_path: 'spree/admin/shared/sub_menu/_configuration',
     name: 'add_analytics_to_admin_sidebar',
